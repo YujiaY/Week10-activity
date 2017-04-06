@@ -22,6 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 
 
 
@@ -31,3 +32,5 @@ Things you may want to cover:
 
 
 +333
+=======
+>>>>>>> parent of ee87fc3... modified readme & routes
